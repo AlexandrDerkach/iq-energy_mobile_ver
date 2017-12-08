@@ -1,0 +1,258 @@
+@media screen and (max-width: 920px) {
+    .iq-en-logo {
+        background-size: 60%;
+        height: 7rem;
+    }
+}
+
+@media only screen and (min-device-width: 600px) {
+    .input-down-cont {
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (min-device-width: 900px) {
+    .input-down-cont {
+        width: 70%;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 748px) {
+    .iq-en-logo {
+        background-size: 68%;
+    }
+    .top-banner-title {
+        font-size: 2rem;
+    }
+    .buy-title-big {
+        font-size: 3rem;
+        line-height: 1rem;
+    }
+    .buy-title-small {
+        font-size: 2rem;
+    }
+    .the-banner_inner_list li {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .us-inf-head {
+        height: 5rem;
+    }
+    .info-head-text,
+    .cont-title {
+        font-size: 3rem;
+    }
+    .step-text {
+        font-size: 2.5rem;
+    }
+    .step-number {
+        font-size: 4rem;
+    }
+    .step-info div {
+        font-size: 2rem;
+    }
+    .iq-ic:last-child {
+        height: 3.5rem;
+        width: 3.5rem;
+        top: 13px;
+    }
+    .off-conditions {
+        font-size: 2rem;
+        margin-top: 2rem;
+    }
+    .attention-cont {
+        margin-top: 1rem;
+    }
+    .attention-cont fieldset {
+        padding: 0 1.9rem;
+    }
+    .attention-cont legend {
+        font-size: 2rem;
+    }
+    .attention-cont p {
+        font-size: 1.5rem;
+    }
+    .enr-itm-head p {
+        font-size: 1.9rem;
+    }
+    .proj-ttl {
+        font-size: 2.2rem;
+    }
+}
+
+@media screen and (max-width: 583px) {
+    .iq-en-logo {
+        background-size: 90%;
+        height: 8em;
+    }
+    .buy-title-small {
+        font-size: 1.5rem;
+    }
+    .the-banner_inner_list {
+        margin-top: 0px;
+    }
+    .the-banner_inner_list li {
+        font-size: 1.5rem;
+    }
+    .iq-ic {
+        width: 20px;
+        height: 20px;
+        background-size: 100%;
+        margin-top: 0;
+    }
+    .the-banner_inner_list li strong:before {
+        margin-right: 0px;
+        position: relative;
+        top: 5px;
+    }
+    .questions-title {
+        font-size: 2rem;
+    }
+    .inp-cap {
+        font-size: 1.5rem;
+    }
+    .waiting-for-call {
+        height: 4rem;
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .top-banner-title {
+        font-size: 1.8rem;
+    }
+    .buy-title-big,
+    .step-text {
+        font-size: 2rem;
+    }
+    .info-head-text {
+        font-size: 2.5rem;
+    }
+    .step-number {
+        font-size: 3rem;
+    }
+    .arrow-down {
+        width: 3rem;
+        height: 3rem;
+        top: -16px;
+    }
+    .smal-arr-down {
+        top: 5px;
+        margin-bottom: 25px;
+    }
+    .step-wrap {
+        margin: 10px 0 0;
+    }
+    .step-caption {
+        font-size: 1.5rem!important;
+    }
+    .iq-ic:last-child {
+        width: 2rem;
+        height: 2rem;
+        top: 7px;
+    }
+    .buy-title-small,
+    .the-banner_inner_list li {
+        font-size: 1.2rem;
+    }
+    .off-conditions {
+        font-size: 1.5rem;
+    }
+    .attention-cont legend {
+        font-size: 1.5rem;
+    }
+    .attention-cont p {
+        font-size: 1.1rem;
+    }
+    .cont-title {
+        font-size: 2.2rem;
+    }
+    .energ-goods-inner {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+    .enr-itm-head p {
+        font-size: 2rem;
+    }
+    .enegr-goods-imt footer ul li a {
+        font-size: ;
+    }
+    .enegr-goods-imt {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 415px) {
+    .top-banner-title {
+        margin-top: 0;
+    }
+    .the-banner_inner_list li:not(:first-child) {
+        margin-top: 0;
+    }
+    .iq-ic {
+        width: 17px;
+        height: 14px;
+        background-size: 100%;
+        margin-left: 4px;
+        margin-right: 3px;
+        top: 4px;
+    }
+    .the-banner_inner_list li strong:before {
+        width: 17px;
+        height: 17px;
+        background-size: 100%;
+        top: 3px;
+        margin-right: 3px;
+    }
+    .buy-title-small {
+        margin-top: 0px;
+        margin-bottom: 0;
+    }
+    .down-inp {
+        padding: 1.5rem ;
+        height: 3rem;
+    }
+    .down-inp::placeholder {
+        font-size: 1.8rem;
+    }
+    .waiting-for-call {
+        width: 80%;
+    }
+    .inp-cap {
+        margin-left: 1rem!important;
+        margin-bottom: 0.3rem;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    .cont-title {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .top-banner {
+        padding: 0;
+    }
+    .top-banner-title,
+    .buy-title-big {
+        font-size: 1.5rem
+    }
+    .buy-our-goods {
+        padding: 1.5rem 0;
+    }
+    .buy-title-big {
+        margin-bottom: 5px;
+    }
+    .buy-title-small,
+    .the-banner_inner_list li {
+        font-size: 1.1rem;
+        letter-spacing: -0.2px;
+    }
+}
